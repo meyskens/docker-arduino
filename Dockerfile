@@ -1,6 +1,6 @@
 FROM maartje/desktop-base
 
-ENV version=1.8.4
+ENV version=1.8.5
 
 RUN apt-get update && apt-get install -y xz-utils
 
